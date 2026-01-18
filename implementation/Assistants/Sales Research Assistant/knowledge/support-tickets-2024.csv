@@ -1,0 +1,13 @@
+ticket_id,account_id,subject,priority,status,category,created_date,resolution_notes
+TKT-101,ACC-2024-001,API Rate Limit Exceeded,High,Resolved,Technical,2024-11-01,"Increased quota to 5000 req/min. Customer confirmed fix."
+TKT-102,ACC-2024-006,Login Failure SSO,Critical,Open,Authentication,2024-12-07,"Investigating IDP connection timeout. Escalated to Eng."
+TKT-103,ACC-2024-002,Invoice #INV-2024-003 Discrepancy,Medium,Open,Billing,2024-12-05,"Customer claims amount should be 1900. Checking contract terms."
+TKT-104,ACC-2024-003,Feature Request: Dark Mode,Low,Open,Product,2024-11-15,"Added to roadmap for Q2 2025."
+TKT-105,ACC-2024-008,Data Export Timeout,High,Resolved,Technical,2024-10-25,"Optimized SQL query for large datasets. Export now takes <2min."
+TKT-106,ACC-2024-005,Onboarding Assistance,Medium,Resolved,Support,2024-09-10,"Walked through dashboard setup. Sent tutorial links."
+TKT-107,ACC-2024-001,Webhook Delivery Failure,High,Open,Technical,2024-12-08,"Webhooks failing with 401. Checking auth tokens."
+TKT-108,ACC-2024-010,Security Audit Question,Medium,Resolved,Security,2024-11-20,"Provided SOC2 report and answered questionnaire."
+TKT-109,ACC-2024-004,Add New Seats,Low,Resolved,Billing,2024-11-05,"Added 5 seats. Updated billing for next cycle."
+TKT-110,ACC-2024-007,Mobile App Crash iOS,Critical,Resolved,Mobile,2024-10-12,"Fixed in version 2.4.1. Customer updated."
+TKT-111,ACC-2024-009,Email Template needed,Low,Resolved,Product,2024-11-30,"Shared HTML templates for marketing automation."
+TKT-112,ACC-2024-006,Churn Risk Discussion,High,Open,Account,2024-12-01,"CSM flagged low adoption. Meeting scheduled."

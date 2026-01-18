@@ -1,0 +1,11 @@
+lead_id,company_name,contact_name,email,industry,status,icp_score,source
+LEA-2024-101,Nova Robotics,Dr. Jan Miller,j.miller@novarobotics.demo,Manufacturing,Qualified,85,Inbound
+LEA-2024-102,EcoBuild Solutions,Lisa Chen,lisa.chen@ecobuild.demo,Construction,New,65,Outreach
+LEA-2024-103,Future Finance,Markus Weber,m.weber@futurefin.demo,Finance,Negotiation,92,Referral
+LEA-2024-104,HealthPlus Clinics,Sarah Jones,s.jones@healthplus.demo,Healthcare,Disqualified,45,Inbound
+LEA-2024-105,EduSmart Systems,Tom Wilson,t.wilson@edusmart.demo,Education,Qualified,78,Conference
+LEA-2024-106,LogiChain GmbH,Klaus Meyer,k.meyer@logichain.demo,Logistics,New,70,Outreach
+LEA-2024-107,Retail Dynamics,Emma Stone,emma.s@retaildyn.demo,Retail,Negotiation,88,Inbound
+LEA-2024-108,SecureCloud IT,David Black,d.black@securecloud.demo,Technology,Qualified,95,Webinar
+LEA-2024-109,MediaCore Ltd,Julia Roberts,j.roberts@mediacore.demo,Media,New,60,Outreach
+LEA-2024-110,AutoDrive Groups,Peter Stark,p.stark@autodrive.demo,Automotive,Disqualified,50,Inbound

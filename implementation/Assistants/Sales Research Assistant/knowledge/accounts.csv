@@ -1,0 +1,11 @@
+account_id,company_name,industry,tier,health_score,mrr_eur,renewal_date,csm_email,icp_score,overdue_invoices,ticket_volume,open_tickets
+ACC-2024-001,TechFlow GmbH,Software,Enterprise,88,4500,2024-12-15,csm.sarah@flowsync.io,90,0,2,1
+ACC-2024-002,GreenWave Energy,Energy,Growth,92,2100,2025-03-01,csm.sarah@flowsync.io,78,1,1,1
+ACC-2024-003,Urban Logistics AG,Logistics,Enterprise,74,5200,2024-11-30,csm.mike@flowsync.io,82,0,1,1
+ACC-2024-004,MediCare Systems,Healthcare,Growth,65,1800,2025-01-20,csm.mike@flowsync.io,96,0,1,0
+ACC-2024-005,FinStrat Consult,Finance,Startup,95,850,2025-06-15,csm.lena@flowsync.io,80,0,1,0
+ACC-2024-006,Nordic Retail Group,Retail,Enterprise,45,3800,2024-12-10,csm.sarah@flowsync.io,75,1,2,2
+ACC-2024-007,Alpha Education,Education,Growth,82,1200,2025-02-28,csm.lena@flowsync.io,68,0,1,0
+ACC-2024-008,Global Services Ltd,Services,Enterprise,60,6500,2024-11-25,csm.mike@flowsync.io,79,0,1,0
+ACC-2024-009,Creative Pulse,Marketing,Startup,88,950,2025-05-10,csm.lena@flowsync.io,72,0,1,0
+ACC-2024-010,SecureNets Inc,Technology,Growth,78,2400,2025-04-15,csm.sarah@flowsync.io,88,0,1,0

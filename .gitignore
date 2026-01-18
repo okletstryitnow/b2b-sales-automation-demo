@@ -1,0 +1,38 @@
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# Local
+CLAUDE.md
+.claude/
+.claude-flow/
+.swarm/
+_internal/
+
+# Private application materials
+internal_application_files/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+*.tmp
+
+# Excluded screenshots
+langdock-files/Assistants/Sales Research Assistant/screenshots/config.png
+langdock-files/Assistants/Sales Research Assistant/screenshots/prompt-detail.png
